@@ -1,0 +1,6 @@
+
+1. mkdir : " Makes a new directory" 
+
+2. touch : " Creates a new file" 
+
+3. cd .. : " Redirects to the parent directory" 
